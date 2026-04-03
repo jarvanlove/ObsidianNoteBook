@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "81f3dca4800b4e11",
+    "type": "split",
+    "children": [
+      {
+        "id": "067c8cd89bd1b259",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42dd02ce54cb29ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/SKILL.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SKILL"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eff914150e1349c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcf86e0b14b248f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faa68b4cdf4710b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a9e89885dd2bccbe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "82c0cd568ccb5530",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5
+  },
+  "right": {
+    "id": "514ebe7b4f90f05e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf2c420b3901b487",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efa0c5d2e331867d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "c3e22a6248f5ae80",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "8fe205412f0ac038",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "bf1128d8a135e2cb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "a156e859ecf0bbdb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "templates/SKILL.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "SKILL 的大纲"
+            }
+          },
+          {
+            "id": "2c201d106a65934a",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "42dd02ce54cb29ef",
+  "lastOpenFiles": [
+    "templates/CLAUDE_chapter.md",
+    "README.md",
+    "README-zh.md",
+    "记忆库/语义记忆/ResearchClaw/UI_DESIGN_SPEC.md",
+    "记忆库/语义记忆/ResearchClaw/Stitch_UI_Design_Spec.md",
+    "记忆库/语义记忆/ResearchClaw/ResearchClaw-UI设计文档.md",
+    "记忆库/语义记忆/ResearchClaw/Docker部署流程与文件同步经验.md",
+    "history/claude/项目需求/ResearchClaw UI重构.md",
+    "history/claude/日记/2026-04-03.md",
+    "记忆库/语义记忆/通用/claude-code-buddy/03-产品启发/为什么 buddy 是一个高价值小功能.md",
+    "记忆库/语义记忆/通用/claude-code-buddy/02-交互机制/界面渲染与交互行为.md",
+    "记忆库/语义记忆/通用/claude-code-buddy/01-命令理解/buddy 命令总览.md",
+    "记忆库/语义记忆/通用/claude-code-buddy/01-命令理解/伴侣生成机制与属性系统.md",
+    "记忆库/语义记忆/通用/claude-code-buddy/00-入口/内容地图 MOC.md",
+    "记忆库/语义记忆/通用/claude-code-buddy/00-入口/最短使用说明.md",
+    "记忆库/语义记忆/通用/claude-code-buddy/README.md",
+    "记忆库/语义记忆/通用/Claude-Code-Buddy伴侣系统.md",
+    "记忆库/语义记忆/ResearchClaw/design.zip",
+    "记忆库/语义记忆/ResearchClaw/design/assets/05-skill-detail.png",
+    "记忆库/语义记忆/ResearchClaw/design/assets/576313a9-1fad-4654-98d6-ba65e4493d65.png",
+    "记忆库/语义记忆/ResearchClaw/design/assets/09-webhook-dropdown.png",
+    "记忆库/语义记忆/ResearchClaw/design/assets/34b0390f-accf-49e8-aa67-e586fad80121.png",
+    "记忆库/语义记忆/ResearchClaw/design/assets/09-task-config.png",
+    "记忆库/语义记忆/ResearchClaw/design/assets/510d4d10-fad9-446b-acc9-85a86287ef0c.png",
+    "记忆库/语义记忆/ResearchClaw/design/assets/08-tasks-empty.png",
+    "记忆库/语义记忆/ResearchClaw/design/assets/b0287b15-3a39-4b39-8e22-21bf70022fbf.png",
+    "记忆库/语义记忆/ResearchClaw/design/assets/07-tool-detail.png",
+    "记忆库/语义记忆/ResearchClaw/design/assets/1d768493-b6ff-4015-ab89-a0a17ab6e267.png",
+    "记忆库/语义记忆/ResearchClaw/design/assets",
+    "记忆库/语义记忆/ResearchClaw/design",
+    "guide/agent-cli/assets/README.md",
+    "记忆库/语义记忆/ResearchClaw/design/ResearchClaw功能与页面完整文档.md",
+    "记忆库/语义记忆/通用/claude-code-buddy.zip",
+    "记忆库/语义记忆/通用/claude-code-buddy/03-产品启发/为什么",
+    "记忆库/语义记忆/通用/claude-code-buddy/03-产品启发",
+    "记忆库/语义记忆/通用/claude-code-buddy/02-交互机制",
+    "记忆库/语义记忆/通用/claude-code-buddy/01-命令理解",
+    "记忆库/语义记忆/通用/claude-code-buddy/00-入口",
+    "记忆库/MEMORY.md",
+    "记忆库/语义记忆/通用/类Claw思想Agent技术选型.md",
+    "记忆库/语义记忆/通用/claude-code-buddy",
+    "history/claude/项目需求/claude-code-sourcemap-main.md",
+    "记忆库/语义记忆/claude-code-sourcemap-main/01-源码理解/Claude Code 架构全景与时序分析.md",
+    "记忆库/任务清单.md",
+    "history/claude/日记/2026-04-02.md",
+    "guide/agent-cli/00-AI CLI 指南索引.md",
+    "未命名.canvas"
+  ]
+}
