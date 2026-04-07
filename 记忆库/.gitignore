@@ -1,0 +1,20 @@
+# 记忆库本地忽略规则
+# 不提交的文件
+
+# 日常工作（敏感/个人）
+日常工作.md
+
+# Obsidian 工作区文件
+.obsidian/workspace.json
+.obsidian/workspaces.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+~*
+
+# 个人配置
+*.personal.md
+*_personal.md
